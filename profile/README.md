@@ -18,9 +18,9 @@ At Astra Studio, we leverage the power of the following technologies to build st
 
 ## 🛠️ Our Technology Stack
 
-- **Frontend:** React.js (Next.js), Solid.js, PWA, GSAP, Motion, TanStack
-- **Backend:** Node.js, Bun.js, MongoDB, PostgresSQL, Redis, S3, OpenSearch, Kafka, NATS, GraphQL, tRPC, Hono
-- **DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions, werf)
+- **Frontend:** React.js, Next.js, Solid.js, PWA, GSAP, Motion, TanStack
+- **Backend:** Node.js, Express.js, Bun.js, Hono, MongoDB, PostgresSQL, Redis, S3, OpenSearch, Kafka, NATS, GraphQL, tRPC
+- **DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions, werf, Tilt)
 - **Mobile:** Dart/Flutter
 
 ## 📈 Our Mission
